@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="2130837504" />
+    <public type="string" name="app_name" id="2130903040" />
+    <public type="string" name="app_description" id="2130903041" />
+    <public type="style" name="AppBaseTheme" id="2130968576" />
+    <public type="style" name="AppTheme" id="2130968577" />
+</resources>

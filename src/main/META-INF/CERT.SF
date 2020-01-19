@@ -1,0 +1,41 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: gOl7eCNUK0UW0pgMDvpRT2pNxCc=
+
+
+Name: AndroidManifest.xml
+SHA1-Digest: vzCu/1IHg2ECw8KniNMxsKA6Y60=
+
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: SmV1EfR+Y37VyGc1KasDZ/35Cf4=
+
+
+Name: assets/xposed_init
+SHA1-Digest: UuKjpYi7BU8EgWCPDxyxaJGWPw0=
+
+
+Name: classes.dex
+SHA1-Digest: Nz15KcdthhED9bgrp7IuENBRaIQ=
+
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: gsZNxFnvmqPkYzwutoPyEY8zVs4=
+
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: iIVj6swdXrOmhipWoMf1+jD6Ujs=
+
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: ZAZhgGY1XzCQP3f65O1+cDu2ulQ=
+
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: uqI7RSvQddPexFb4eyncOdsefEg=
+
+
+Name: resources.arsc
+SHA1-Digest: rpRkuDaoSmkSgx0Y7XXc988ErLI=
+
+

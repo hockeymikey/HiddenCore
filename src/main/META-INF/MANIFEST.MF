@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA1-Digest: nfbBd0EPHuPzFGdHU24LvVChWhY=
+
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+
+Name: assets/xposed_init
+SHA1-Digest: AMTVlSVBgrEne0CGNhRM3Wao9AA=
+
+
+Name: classes.dex
+SHA1-Digest: RNY5/jdNCy7fY3GsPbwxmBKEL8U=
+
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: qtUVHWGkCKy6gNY/fxfdRC/mtGI=
+
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: qtUVHWGkCKy6gNY/fxfdRC/mtGI=
+
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qtUVHWGkCKy6gNY/fxfdRC/mtGI=
+
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: qtUVHWGkCKy6gNY/fxfdRC/mtGI=
+
+
+Name: resources.arsc
+SHA1-Digest: 36fLe9R/50jTtr02ZS3wOyV6QHc=
+
+
